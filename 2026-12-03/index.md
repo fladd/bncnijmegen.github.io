@@ -28,16 +28,16 @@ The meeting is _free_ and _open for everyone_, from students to PIs. We look for
 *(Note: While we encourage physical attendance, for this meeting there is also an option to [join online](https://teams.microsoft.com/meet/3753948338667842?p=9V1bXkdt82RyqKAGdT).)*
 
 ## Programme
-~10:00-10:10~
-:   ~Welcome and BNCNijmegen updates~
+10:00-10:10
+:   Welcome and BNCNijmegen updates
 
-~10:10-10:50~
-:   ~**Dongni Yan**, guest speaker from Maastricht University,
-    on *capturing learning dynamics in fMRI neurofeedback*~
+10:10-10:50
+:   **Dongni Yan**, guest speaker from Maastricht University,
+    on *capturing learning dynamics in fMRI neurofeedback*
 
-~10:50-11:30~
-:   ~**Jonathan Posthuma**, BSI,
-    on *characterizing learning in heart rate variability biofeedback*~
+10:50-11:30
+:   **Jonathan Posthuma**, BSI,
+    on *characterizing learning in heart rate variability biofeedback*
 
-~11:30-12:00~
-:   ~Plenary discussion~
+11:30-12:00
+:   Plenary discussion
