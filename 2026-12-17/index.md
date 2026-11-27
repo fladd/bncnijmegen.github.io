@@ -18,7 +18,7 @@ a project in which EEG drives rhythmic stimulation in real time. More informatio
 The second talk will be given by our own Robert Oostenveld, who was one of the project coordinators of the BrainGain BCI project from 2008 to 2013
 and around that time also contributed to BCI2000 training workshops. In addition to his scientific work, he has developed tools and methods for neurofeedback in artistic settings.
 In his presentation, Robert will give his perspective on the interplay between BCI research and brain art: how scientific research has inspired artistic projects,
-and how, in turn, the creative and practical demands of artistic applications have driven technical innovation and contributing to new scientific insights.
+and how, in turn, the creative and practical demands of artistic applications have driven technical innovation and contributed to new scientific insights.
 More information on Robert and some of his projects can be found at [robertoostenveld.nl](https://www.robertoostenveld.nl).
 
 
