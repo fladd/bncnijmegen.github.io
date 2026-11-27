@@ -1,5 +1,5 @@
 ---
-Title: BNCNijmegen Meeting 2026-13-03
+Title: BNCNijmegen Meeting 2026-12-03
 Description: 3 December 2026 10:00-12:00 at MM03.305, Maria Montessori building
 Date: 2026-12-03
 ---
